@@ -79,47 +79,60 @@ Here’s a step-by-step details on how the data was approached
 Here's how the data was cleaned and processed before its readiness for analysis.
 
 
+# KPIs
 ![Output](images/001.PNG)
 
 
+# Churn by Age
 ![Output](images/002.PNG)
 
 
+# Churn by Age bracket
 ![Output](images/003.PNG)
 
 
+# Churn by Geography
 ![Output](images/004.PNG)
 
 
+# Churn by Age Gender
 ![Output](images/005.PNG)
 
 
+# Churn by Card Type
 ![Output](images/006.PNG)
 
 
+# Churn by CreditCard
 ![Output](images/007.PNG)
 
 
 
+# Churn by Complaint
 ![Output](images/008.PNG)
 
 
 
+# Churn by Tenure
 ![Output](images/009.PNG)
 
 
 
+# Avg Balance Churn vs Retained
 ![Output](images/010.PNG)
 
 
 
+# Churn by Creditscore
 ![Output](images/011.PNG)
 
 
 
+# Churn by NumofProduct
 ![Output](images/012.PNG)
 
 
+# Churn by Satisfaction score
 ![Output](images/013.PNG)
 
 
