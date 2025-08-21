@@ -55,8 +55,8 @@ Here are the different (appropriate) chart and icons used in telling the data st
 1.	KPI Score cards
 2.	Column chart
 3.	Donut chart
-4.	Area chart
-5.	Icons 
+4.	Progress bar chart
+5.	Rating stars
 6.	Bar chart
 7.	Combo chart
    
@@ -69,8 +69,8 @@ Here’s a step-by-step details on how the data was approached
 
 1.	Get Data
 2.	Load into Excel
-3.	Clean and process with Power Query, DAX
-4.	Visualize using Excel
+3.	Clean and process with Excel Power Query & DAX
+4.	Visualize using Excel Charts
 5.	Generate Insights
 6.	Give recommendations
 7.	Take action plan
