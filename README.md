@@ -1,8 +1,7 @@
 # Bank Churn Analysis - Excel, Power Query, DAX.
 
-![Gif](assets/images/DashboardGIF1.gif)
+![Mockup](images/DashboardGIF.gif)
 
-![Gif](assets/images/DashboardGIF2.gif)
 
 # Table of contents
 
@@ -61,9 +60,9 @@ Here are the different (appropriate) chart and icons used in telling the data st
 6.	Bar chart
 7.	Combo chart
    
-![Dashboard](assets/images/Dashboard1.PNG)
+![Dashboard](images/Dashboard.PNG)
 
-![Dashboard](assets/images/Dashboard2.PNG)
+![Dashboard](images/Dashboard2.PNG)
 
 ## Stages
 Here’s a step-by-step details on how the data was approached 
@@ -80,45 +79,50 @@ Here’s a step-by-step details on how the data was approached
 Here's how the data was cleaned and processed before its readiness for analysis.
 
 
-![Output](assets/images/001.PNG)
+![Output](images/001.PNG)
 
 
-![Output](assets/images/002.PNG)
+![Output](images/002.PNG)
 
 
-![Output](assets/images/003.PNG)
+![Output](images/003.PNG)
 
 
-![Output](assets/images/004.PNG)
+![Output](images/004.PNG)
 
 
-![Output](assets/images/005.PNG)
+![Output](images/005.PNG)
 
 
-![Output](assets/images/006.PNG)
+![Output](images/006.PNG)
 
 
-![Output](assets/images/007.PNG)
-
-
-
-![Output](assets/images/008.PNG)
+![Output](images/007.PNG)
 
 
 
-![Output](assets/images/009.PNG)
+![Output](images/008.PNG)
 
 
 
-![Output](assets/images/010.PNG)
+![Output](images/009.PNG)
 
 
 
-![Output](assets/images/011.PNG)
+![Output](images/010.PNG)
 
 
 
-![Output](assets/images/012.PNG)
+![Output](images/011.PNG)
+
+
+
+![Output](images/012.PNG)
+
+
+![Output](images/013.PNG)
+
+
 
 ## Insights
 
