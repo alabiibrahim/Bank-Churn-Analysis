@@ -168,29 +168,53 @@ Here's how the data was cleaned and processed before its readiness for analysis.
 
 ## Recommendations
 
-•	Focus safety campaigns and infrastructure improvements in urban areas, especially targeting car users.
+•	Prioritize female customers, older customers, and those in Germany.
 
-•	Since most accidents occur in darkness, increase the use of reflective signs, better street lighting, and vehicle visibility regulations.
+•  Tailored retention strategies (loyalty rewards, targeted communication, personal financial advisors).
 
-•	Redesign or control 'Give way' junctions more effectively, possibly adding traffic signals or roundabouts.
+•  Satisfaction score is average (3.01).
 
-•	Promote defensive driving programs especially in fine weather, as driver overconfidence may lead to accidents.
+•  Improve service quality, faster resolution of issues, better engagement programs.
 
-•	Add rumble strips, barriers, or speed calming measures on single carriageways to reduce risks.
+•  Since 100% of customers who complain churn, implement a proactive complaint resolution team.
 
-•	Launch public awareness and enforcement campaigns in late autumn (Oct–Nov) when accidents spike.
+•  Introduce “customer recovery program”: follow-up calls, compensation, service recovery guarantees.
+
+•  Customers with multiple products churn more, suggesting complexity, hidden costs, or dissatisfaction with upselling.
+
+•  Conduct surveys to identify pain points in bundled products and redesign them for transparency & value.
+
+•  Churned customers have higher bank balances ($91k vs $72k).
+
+•  Create a VIP retention program offering premium support, personalized financial advice, and loyalty perks to retain these high-value customers.
+
+•  Germany shows extreme churn (32.4%).
+
+•  Investigate root causes (regulatory issues, competition, dissatisfaction).
+
+•  Launch localized campaigns & offers in Germany to rebuild trust.
 
 
 ## Action Plan
 
-•	Audit and improve road safety in high-casualty urban zones.
+•	Build a “Customer Retention Task Force” to monitor churn signals in real time.
 
-•	Install better lighting in high-incident dark areas.
+•  Launch a complaint fast-resolution unit (target: 24–48hr resolution).
 
-•	Analyze top dangerous junctions and upgrade control measures.
+•  Send personalized retention offers to high-value customers (balance > $80k).
 
-•	Seasonal campaigns about safe driving in good weather & dark hours.
+•  Conduct a quick survey targeting Germany, females, and older customers to uncover churn reasons.
 
-•	Review policies for single carriageways and car safety.
+•  Improve customer satisfaction by revamping onboarding, support, and communication.
+
+•  Redesign multi-product packages for transparency and customer benefit.
+
+•  Roll out loyalty rewards program for long-tenured customers.
+
+•  Implement predictive churn models using customer data (credit score, tenure, product count, complaints).
+
+•  Expand customer success teams regionally (esp. Germany).
+
+•  Build customer advocacy programs (referrals, community engagement).
 
 
