@@ -1,4 +1,4 @@
-# Bank Churn Analysis - Excel, Power Query, DAX.
+# Bank Customer Churn Analysis - Excel
 
 ![Mockup](images/DashboardGIF.gif)
 
@@ -22,22 +22,35 @@
 Bank Customer Churn Analysis
 
 ## Project Overview
-This project objective is to analyze an accident report dataset to uncover patterns and insights related to road safety. It includes trends in accident frequency, locations, times, and causes. The goal is to help improve decision-making and reduce future accidents through data-driven insights.
+This report analyzes customer churn patterns to identify key drivers influencing attrition across demographics, geography, product usage, and satisfaction levels. The goal is to uncover actionable insights that help reduce customer churn, improve retention, and maximize customer lifetime value.
 
 ## Key Questions to Answer
 
-1.	What is the total number of casualties?
-2.	What are the total casualties by accidents severities?
-3.	Compute the percentage by casualties.
-4.	What road condition does accident mostly occurs?
-5.	Accident occurs frequently in what light condition?
-6.	What road type does accident mostly occurs?
-7.	What area does accident mostly occurs?
-8.	What weather condition does accident mostly occurs?
-9.	What are the casualty rates by junction control?
-10.	Compute the number of casualties caused by police force?
-11.	How often does accident occurs monthly?
-12.	What year has the highest casualties? 
+1.	What is the overall churn rate and retention rate?
+
+2. Which customer segments are most at risk of churning?
+
+   • By gender (male vs female)
+
+   • By age group (young, middle-aged, old, very old)
+
+   • By geography (Spain, Germany, France)
+
+   • By card type (Diamond, Gold, Platinum, Silver)
+
+3. How does customer satisfaction impact churn?
+
+4. What is the relationship between customer tenure and churn?
+
+5. Do complaints influence churn, and to what extent?
+
+6. How does the number of products owned affect churn?
+
+7. What is the churn trend by customer age and credit score?
+
+8. What is the financial impact of churn?
+
+9. Comparing average bank balances of retained vs churned customers.
 
 
 ## Data Source
@@ -46,7 +59,7 @@ This project objective is to analyze an accident report dataset to uncover patte
 
 | Tools | Purpose | 
 | --- | --- | 
-| Excel |  Cleaning, Processing, Analysis & Visualization |
+| Excel |  Cleaning & Processing (Power Query, DAX) | Analysis & Visualization |
 
 
 ## Dashboard Design
@@ -76,7 +89,7 @@ Here’s a step-by-step details on how the data was approached
 7.	Take action plan
 
 ## Data Cleaning & Processing 
-Here's how the data was cleaned and processed before its readiness for analysis.
+Here's how the data was processed and transformed before its readiness for analysis.
 
 
 # KPIs
@@ -139,31 +152,33 @@ Here's how the data was cleaned and processed before its readiness for analysis.
 
 ## Insights
 
-•	Cars account for the overwhelming majority of casualties (333.5K out of 418K).
+•	Total Customers: 10,000, Churned Customers: 2,038 (20.4% churn rate), Retained Customers: 7,962 (79.6%)
 
-•	Motorcycles and vans follow, but at much lower numbers.
+•  Average Satisfaction Score: 3.01 (neutral, not impressive), Average Age: 38.92 years, Average Tenure: 5.01 years
 
-•	Most casualties occur on single carriageway roads.
+•  Female churn rate = 25.1% (higher), Male churn rate = 16.5% (lower)
 
-•	Dual carriageways and roundabouts also have notable numbers.
+•  Old customers churn the most (49.9%), Middle-aged: 22.6%, Young: 7.9%, Very old: 19.6%
 
-•	Accidents mostly occur during fine weather with no high winds.
+•  Germany has the highest churn at 32.4%, Spain = 16.7%, France = 16.2%
 
-•	Around 73% of accidents happen in darkness, suggesting visibility plays a major role.
+•  Customers with Diamond card type churned the 21.8% (highest), with Gold being the least at 19.3%. Platinum: 20.4%, Silver: 20.1%
 
-•	Majority of accidents are slight (85.49%), but serious (13.23%) and fatal (1.28%) still make up a concerning share.
+•  Lower satisfaction strongly correlates with higher churn.
 
-•	November sees the highest monthly casualties, with a gradual decline until February.
+•  Customers rating 1–2 stars churn far more than 4–5 star customers.
 
-•	This may correlate with shorter daylight hours or weather conditions.
+•  Customers with only 1 product churn less.
 
-•	Urban areas have more casualties than rural areas, likely due to higher traffic density.
+•  Customers with 2+ products churn heavily (up to 100%).
 
-•	Most casualties occur at 'Give way or uncontrolled' junctions.
+•  Customers who lodged complaints = 100% churn.
 
-•	Poor or missing data on junction control also contributes to high accident counts.
+•  Average bank balance of churned customers = $91,097 and Retained customers = $72,768
 
-•	Majority of accidents happen on dry roads, followed by wet or damp surfaces.
+•  Churned customers have higher balances, meaning losing them has bigger financial impact.
+
+•  Churn slightly negatively correlated with credit score (low scores churn more).
 
 
 ## Recommendations
@@ -216,5 +231,10 @@ Here's how the data was cleaned and processed before its readiness for analysis.
 •  Expand customer success teams regionally (esp. Germany).
 
 •  Build customer advocacy programs (referrals, community engagement).
+
+
+## Measurable Outcome 
+
+By implementing the recommendations from this analysis, the Bank aims to reduce churn rate by 5–8% within the next 6–12 months, increase average customer satisfaction score from 3.01 to 4.0, and retain at least $15M in customer bank balances that would otherwise be lost due to attrition.
 
 
