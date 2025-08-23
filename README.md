@@ -152,7 +152,7 @@ Here's how the data was processed and transformed before its readiness for analy
 
 ## Insights
 
-•	Total Customers: 10,000, Churned Customers: 2,038 (20.4% churn rate), Retained Customers: 7,962 (79.6%)
+•	Total Customers: 10,000, Churned Customers: 2,038 (20.4% churn rate), Retained Customers: 7,962 (79.6% retention rate)
 
 •  Average Satisfaction Score: 3.01 (neutral, not impressive), Average Age: 38.92 years, Average Tenure: 5.01 years
 
